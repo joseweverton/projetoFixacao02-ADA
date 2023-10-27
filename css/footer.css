@@ -1,0 +1,46 @@
+
+.menu-bg-footer {
+    background: #f7f7f7;
+}
+
+.menu-footer, .redes-sociais {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0.9375rem 0rem;/*15px*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+}
+
+.menu-footer a {
+    color: #336699;
+    text-decoration: none;  
+}
+
+.menu-lista-footer {
+    display: flex;
+    flex-wrap: wrap; 
+    list-style: none; 
+}
+
+.menu-lista-footer a {
+    font-size: 1.25rem;
+    display: block;
+    padding: 0.625rem;
+    text-transform: lowercase; 
+}
+.menu-lista-footer a:hover {
+    color: #122a12;
+}
+
+.redes-sociais ul {
+    display: flex;
+    gap: 20px;
+    padding: 0.9375rem 0rem;/*15px*/
+
+}
+
+.redes-sociais ul li {
+    cursor: pointer;
+}

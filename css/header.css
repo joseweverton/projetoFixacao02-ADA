@@ -1,0 +1,41 @@
+
+/*Estilo menu*/
+.menu-bg {
+    background: #336699;
+}
+
+.menu {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0.9375rem 0rem;/*15px*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+.menu-logo a {
+    font-size: 2.25em;
+    font-weight: bold;
+    margin: 0rem 0.625rem;
+}
+
+.menu-lista {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.menu-lista a {
+    font-size: 1.25rem;
+    display: block;
+    padding: 0.625rem;
+    text-transform: lowercase; 
+}
+.menu-lista a:hover {
+    color: #122a12;
+}

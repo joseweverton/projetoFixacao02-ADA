@@ -24,7 +24,10 @@
   <li>Tabela e formulário de cadastro.</li>
 </ul>
 
-![image](https://github.com/joseweverton/projetoFixacao02-ADA/assets/125286733/d0455698-c3c0-404e-8ce0-da538dca212d)
+<p>🎬 Demonstração do funcionamento das funcionalidades de navegação:</p>
+<p align="center">
+  <img width="460" height="300" src="img/to_readme/AdaPub.gif">  
+</p>
 
  
 
